@@ -1,0 +1,24 @@
+c:\users\paolo\documents\visual studio 2015\Projects\CustomerList\CustomerList\bin\Debug\CustomerList.exe.config
+c:\users\paolo\documents\visual studio 2015\Projects\CustomerList\CustomerList\bin\Debug\CustomerList.exe
+c:\users\paolo\documents\visual studio 2015\Projects\CustomerList\CustomerList\bin\Debug\CustomerList.pdb
+c:\users\paolo\documents\visual studio 2015\Projects\CustomerList\CustomerList\bin\Debug\CustomerList.xml
+c:\users\paolo\documents\visual studio 2015\Projects\CustomerList\CustomerList\obj\Debug\CustomerList.vbprojResolveAssemblyReference.cache
+c:\users\paolo\documents\visual studio 2015\Projects\CustomerList\CustomerList\obj\Debug\CustomerList.frmCustomerList.resources
+c:\users\paolo\documents\visual studio 2015\Projects\CustomerList\CustomerList\obj\Debug\CustomerList.Resources.resources
+c:\users\paolo\documents\visual studio 2015\Projects\CustomerList\CustomerList\obj\Debug\CustomerList.vbproj.GenerateResource.Cache
+c:\users\paolo\documents\visual studio 2015\Projects\CustomerList\CustomerList\obj\Debug\CustomerList.exe
+c:\users\paolo\documents\visual studio 2015\Projects\CustomerList\CustomerList\obj\Debug\CustomerList.xml
+c:\users\paolo\documents\visual studio 2015\Projects\CustomerList\CustomerList\obj\Debug\CustomerList.pdb
+D:\Classes\Semester 2\NETD\Week 7\Please Don't Suck This Time\CustomerList\CustomerList\bin\Debug\CustomerList.exe.config
+D:\Classes\Semester 2\NETD\Week 7\Please Don't Suck This Time\CustomerList\CustomerList\bin\Debug\CustomerList.exe
+D:\Classes\Semester 2\NETD\Week 7\Please Don't Suck This Time\CustomerList\CustomerList\bin\Debug\CustomerList.pdb
+D:\Classes\Semester 2\NETD\Week 7\Please Don't Suck This Time\CustomerList\CustomerList\bin\Debug\CustomerList.xml
+D:\Classes\Semester 2\NETD\Week 7\Please Don't Suck This Time\CustomerList\CustomerList\obj\Debug\CustomerList.vbprojAssemblyReference.cache
+D:\Classes\Semester 2\NETD\Week 7\Please Don't Suck This Time\CustomerList\CustomerList\obj\Debug\CustomerList.frmCustomerList.resources
+D:\Classes\Semester 2\NETD\Week 7\Please Don't Suck This Time\CustomerList\CustomerList\obj\Debug\CustomerList.Resources.resources
+D:\Classes\Semester 2\NETD\Week 7\Please Don't Suck This Time\CustomerList\CustomerList\obj\Debug\CustomerList.vbproj.GenerateResource.cache
+D:\Classes\Semester 2\NETD\Week 7\Please Don't Suck This Time\CustomerList\CustomerList\obj\Debug\CustomerList.vbproj.CoreCompileInputs.cache
+D:\Classes\Semester 2\NETD\Week 7\Please Don't Suck This Time\CustomerList\CustomerList\obj\Debug\CustomerList.exe
+D:\Classes\Semester 2\NETD\Week 7\Please Don't Suck This Time\CustomerList\CustomerList\obj\Debug\CustomerList.xml
+D:\Classes\Semester 2\NETD\Week 7\Please Don't Suck This Time\CustomerList\CustomerList\obj\Debug\CustomerList.pdb
+D:\Classes\Semester 2\NETD\Week 7\Please Don't Suck This Time\CustomerList\CustomerList\obj\Debug\CustomerList.frmCarInventory.resources
